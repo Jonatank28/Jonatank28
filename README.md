@@ -1,8 +1,8 @@
 ## Oiii eu sou Jonatan, desenvolvendor front-end júnior
 <div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img width="50px" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatank28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatank28&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Jonatank28">
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatank28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatank28&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ## Tecnologias mais utilizadas
 <div style="display: inline_block"><br>

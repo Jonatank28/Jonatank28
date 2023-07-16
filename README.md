@@ -1,4 +1,4 @@
-## Oiii eu sou Jonatan, desenvolvendor front-end júnior
+## Oiii eu sou Jonatan, desenvolvendor full stack
 <div align="center">
   <a href="https://github.com/Jonatank28">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatank28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
